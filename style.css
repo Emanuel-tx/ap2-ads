@@ -1,0 +1,15 @@
+header{
+    background-image: url(bgheader1.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.borderbottomnvbar{
+    border-top: 5px solid rgba(255, 255, 255, 0.089);
+}
+audio{
+    filter: grayscale()
+}
+.caption_bg{
+    background-color: #15171a9a;
+}
